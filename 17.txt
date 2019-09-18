@@ -1,8 +1,8 @@
-前情回顾
+
 
 1. git使用
 
-   * 什么是git
+   
 
    * git 配置    git config
 
@@ -136,9 +136,7 @@ cookie：
     new_passwd = hash.hexdigest()
     功能： 得到转换后的密码
 
-作业：　1. 梳理在线词典
-　　　　2. 将自己的代码完善
-　　　　3. 复习ｈｔｔｐ２．０
+
 
 
 
